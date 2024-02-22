@@ -16,5 +16,5 @@ In this we will have the codes/notes related to my research on modeling pilot co
    2. Generated Data for this code [click here](https://github.com/stephenbrutch/Pilot-Models-for-Physics-Informed-Neural-Networks/blob/main/data%20for%20notes%201.zip)      
 
 4. Notes 4:
-   1. This note is split into multiple chapters where each chapter goes over a different version of the model
-      1. Code for chapter 1: [click here](https://gist.github.com/stephenbrutch/e2b036c1a5c22db6aa0cf02943a66118). This code isnt perfectly updated but try to follow up until after the training loop portion then after that it is just standard predictions and plot predictions code
+-This note is split into multiple chapters where each chapter goes over a different version of the model
+   1. Code for chapter 1: [click here](https://gist.github.com/stephenbrutch/e2b036c1a5c22db6aa0cf02943a66118). This code isnt perfectly updated but try to follow up until after the training loop portion then after that it is just standard predictions and plot predictions code
