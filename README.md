@@ -19,6 +19,6 @@ In this we will have the codes/notes related to my research on modeling pilot co
    1. Code: [click here](https://gist.github.com/stephenbrutch/ac56c78649bf8e3f3c4f1716b2867203)
    2. Generated Data for this code [click here](https://github.com/stephenbrutch/Pilot-Models-for-Physics-Informed-Neural-Networks/blob/main/data%20for%20notes%201.zip)      
 
-4. Notes 4: This note is split into multiple chapters where each chapter goes over a different version of the model: [click here](https://github.com/stephenbrutch/Pilot-Models-for-Physics-Informed-Neural-Networks/blob/main/Google%20Colab%20Code%203%20Notes.pdf)
+4. Notes 4: This note is split into multiple chapters where each chapter goes over a different version of the model: [click here]()
    1. Code for chapter 1: [click here](https://gist.github.com/stephenbrutch/e2b036c1a5c22db6aa0cf02943a66118). This code isnt perfectly updated but try to follow up until after the training loop portion then after that it is just standard predictions and plot predictions code
    2. Code for chapter 2: see ADCL colab under Steve folder
