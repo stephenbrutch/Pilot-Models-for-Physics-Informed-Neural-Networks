@@ -1,7 +1,11 @@
 # Pilot-Models-for-Physics-Informed-Neural-Networks
 In this we will have the codes/notes related to my research on modeling pilot control using physics informed neural networks
 
-## 1) The notes (The notes are listed in chonological order i.e. Notes 1 is the earliest version)
+## 1) Overview:
+1. Notes 1,2,3 are all similar in how the code is constructed. Only difference is the loss function being tweeked to see results. These codes are PINNs for a specific set of conditions.
+2. Notes 4 is an extension of the PINN/iPINN for a larger dataset to try and increase its generalizability/robustness.
+
+## 2) The notes (The notes are listed in chonological order i.e. Notes 1 is the earliest version)
 1. Notes 1: [click here](https://github.com/stephenbrutch/Pilot-Models-for-Physics-Informed-Neural-Networks/blob/main/Google%20Colab%20Code%201%20Notes.pdf)
    1. This is the architecture/code used for the AIAA paper
    2. Code: [click here](https://gist.github.com/stephenbrutch/16b24ac7bab9f077af155bdd9098dffe)
