@@ -23,6 +23,6 @@ In this we will have the codes/notes related to my research on modeling pilot co
    1. Code for chapter 1: [click here](https://gist.github.com/stephenbrutch/e2b036c1a5c22db6aa0cf02943a66118). This code isnt perfectly updated but try to follow up until after the training loop portion then after that it is just standard predictions and plot predictions code
    2. Code for chapter 2: see ADCL colab under Steve folder
    3. In this code we look at purely the time invariant case
-      1 Code for chapter 3: [click here](https://drive.google.com/file/d/1IZ3EtH4-3xSBb1Av3kmBOeRUuxKamZu2/view?usp=sharing)
+      1. Code for chapter 3: [click here](https://drive.google.com/file/d/1IZ3EtH4-3xSBb1Av3kmBOeRUuxKamZu2/view?usp=sharing)
    4. In this code we look to adjust the time invariant model to be ammendable to time invariant data. This model can work with both setups
-      1 Code for chapter 4: [click here](https://colab.research.google.com/drive/1v-XAwR3TNVdPkI9JuH1LDjcz-cOctHno?usp=sharing) 
+      1. Code for chapter 4: [click here](https://colab.research.google.com/drive/1v-XAwR3TNVdPkI9JuH1LDjcz-cOctHno?usp=sharing) 
