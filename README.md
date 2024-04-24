@@ -30,7 +30,7 @@ In this we will have the codes/notes related to my research on modeling pilot co
      
 
 ## 3) Extra 
-1. In this work I adapted the project to also use Sci-Kit Learn models to estimate the pilot behavior and pilot model parameters. This work was for a class project thus it is slightly modified/simplified version of the thesis work.
+1. In this work I adapted the project to also use Sci-Kit Learn models to estimate the pilot behavior and pilot model parameters, there is also a comparison with NN and PINNs. This work was for a class project thus it is slightly modified/simplified version of the thesis work.
 
    1. Code: [click here](https://gist.github.com/stephenbrutch/f1b9d61fc1fbc12ec26d8ac260e6ff09)
    2. Report: [click here](https://github.com/stephenbrutch/Pilot-Models-for-Physics-Informed-Neural-Networks/blob/main/CS595_Final_Project_Report%20(2).pdf)
