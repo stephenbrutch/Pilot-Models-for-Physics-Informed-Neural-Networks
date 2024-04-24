@@ -25,4 +25,12 @@ In this we will have the codes/notes related to my research on modeling pilot co
    3. In this code we look at purely the time invariant case
       1. Code for chapter 3: [click here](https://drive.google.com/file/d/1IZ3EtH4-3xSBb1Av3kmBOeRUuxKamZu2/view?usp=sharing)
    4. In this code we look to adjust the time invariant model to be ammendable to time invariant data. This model can work with both setups
-      1. Code for chapter 4: [click here](https://colab.research.google.com/drive/1v-XAwR3TNVdPkI9JuH1LDjcz-cOctHno?usp=sharing) 
+      1. Code for chapter 4: [click here](https://colab.research.google.com/drive/1v-XAwR3TNVdPkI9JuH1LDjcz-cOctHno?usp=sharing)
+     
+
+## 3) Extra 
+1. In this work I adapted the project to also use Sci-Kit Learn models to estimate the pilot behavior and pilot model parameters. This work was for a class project thus it is slightly modified/simplified version of the thesis work.
+
+   1. Code: [click here](https://gist.github.com/stephenbrutch/f1b9d61fc1fbc12ec26d8ac260e6ff09)
+   2. Report:
+   3. Data: 
