@@ -4,6 +4,7 @@ In this we will have the codes/notes related to my research on modeling pilot co
 ## 1) Overview:
 1. Notes 1,2,3 are all similar in how the code is constructed. Only difference is the loss function being tweeked to see results. These codes are PINNs for a specific set of conditions.
 2. Notes 4 is an extension of the PINN/iPINN for a larger dataset to try and increase its generalizability/robustness.
+3. This work was for a class project thus it is slightly modified/simplified version of the thesis work but none the less if you read the report you can get the idea of how we are solving the problem.
 
 ## 2) The notes (The notes are listed in chonological order i.e. Notes 1 is the earliest version)
 1. Notes 1: [click here](https://github.com/stephenbrutch/Pilot-Models-for-Physics-Informed-Neural-Networks/blob/main/Google%20Colab%20Code%201%20Notes.pdf)
@@ -33,4 +34,4 @@ In this we will have the codes/notes related to my research on modeling pilot co
 
    1. Code: [click here](https://gist.github.com/stephenbrutch/f1b9d61fc1fbc12ec26d8ac260e6ff09)
    2. Report: [click here](https://github.com/stephenbrutch/Pilot-Models-for-Physics-Informed-Neural-Networks/blob/main/CS595_Final_Project_Report%20(2).pdf)
-   3. Data and source code with readme file: 
+   3. Data and source code with readme file: [click here](https://myerauedu-my.sharepoint.com/:f:/g/personal/brutchs_my_erau_edu/EgbDJa5-3T9JiKmKNWhLXvMB73Z8Bnu6-VyBRzkyb4YKnA?e=3xze4b)
